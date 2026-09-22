@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /resources/
+Disallow: /privacy-policy/
+
+Sitemap: https://www.westlandcarpetandfloors.com/sitemap.xml
